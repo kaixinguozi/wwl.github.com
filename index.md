@@ -1,4 +1,4 @@
-### Wenwen Liu's Homepage
+# Wenwen Liu's Homepage
 
 ![Image of WwL](https://github.com/WwL-good/wwl.github.com/blob/gh-pages/wwl.jpeg )
 - *Wenwen Liu* 
@@ -15,9 +15,7 @@ I am a PhD candidate in Department of Electrical Engineering, City University of
 - BS, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, 2011-2015.
 
 ## Research
-# Research Interests
-My current research interests include evolutionary computation, algorithm selection and machine learning.
-# Publications 
-W.  Liu,  S.  Y.  Yuen,  C.  W.  Sung,  Composing  algorithm  portfolio  with problem  set  of  unknown  distribution,  in:  Proceedings  of  the  2020  IEEE Symposium Series on Computational Intelligence, 2020.
-
-
+- *Research Interests*
+  - My current research interests include evolutionary computation, algorithm selection and machine learning.
+- *Publications*
+  - W.  Liu,  S.  Y.  Yuen,  C.  W.  Sung,  Composing  algorithm  portfolio  with problem  set  of  unknown  distribution,  in:  Proceedings  of  the  2020  IEEE Symposium Series on Computational Intelligence, 2020.
