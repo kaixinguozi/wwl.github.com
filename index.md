@@ -3,6 +3,7 @@
 ![Image of WwL](./wwl.jpeg )
 - *Wenwen Liu* 
 - *Email*: wenwen.liu@my.cityu.edu.hk
+- *Phone*: +852 3442 9845
 - *Address*: FYW building 2386, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong
 
 ## ABOUT ME
