@@ -7,7 +7,7 @@
 
 ## ABOUT ME
 
-I am a PhD candidate in Department of Electrical Engineering, City University of Hong Kong. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Dr. Shiu Yin Yuen</a>. My current research interests include evolutionary computation, algorithm selection and machine learning.
+I am currently a PhD candidate in Department of Electrical Engineering, City University of Hong Kong. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Dr. Shiu Yin Yuen</a> and my co-supervisor is <a href="https://www.ee.cityu.edu.hk/~cwsung/index.html/">Dr. Chi Wan Sung</a>. My current research interests include evolutionary computation, algorithm selection and machine learning.
 
 ## EDUCATION
 - PhD candidate, Department of Electrical Engineering, City University of Hong Kong, 2018-now.
