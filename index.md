@@ -1,41 +1,23 @@
 ### Wenwen Liu's Homepage
 
-![Image of WwL](https://github.com/WwL-good/wwl.github.com/blob/gh-pages/wwl.jpeg)
+![Image of WwL](https://github.com/WwL-good/wwl.github.com/blob/gh-pages/wwl.jpeg )
+- *Wenwen Liu* 
+- *Email*:Wenwen.liu@my.cityu.edu.hk
+- *Address*:FYW building 2386, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+## About me
 
-You can use the [editor on GitHub](https://github.com/WwL-good/wwl.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD candidate in Department of Electrical Engineering, City University of Hong Kong. My supervisor is <a href="http://www.ee.cityu.edu.hk/~syyuen/">Dr. Shiu Yin Yuen</a>. My current research interests include evolutionary computation, algorithm selection and machine learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+- PhD candidate, Department of Electrical Engineering, City University of Hong Kong, 2018-now.
+- MS, Department of Electrical and Electronic Engineering, The university of Melbourne 2015-2018.
+- BS, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, 2011-2015.
 
-### Markdown
+## Research
+# Research Interests
+My current research interests include evolutionary computation, algorithm selection and machine learning.
+# Publications 
+W.  Liu,  S.  Y.  Yuen,  C.  W.  Sung,  Composing  algorithm  portfolio  with problem  set  of  unknown  distribution,  in:  Proceedings  of  the  2020  IEEE Symposium Series on Computational Intelligence, 2020.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WwL-good/wwl.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
