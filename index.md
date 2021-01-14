@@ -19,4 +19,6 @@ I am currently a PhD candidate in Department of Electrical Engineering, City Uni
 - *Research Interests*
   - My current research interests include evolutionary computation, algorithm selection and machine learning.
 - *Publications*
-  - W.  Liu,  S.  Y.  Yuen,  C.  W.  Sung,  Composing  algorithm  portfolio  with problem  set  of  unknown  distribution,  in:  Proceedings  of  the  2020  IEEE Symposium Series on Computational Intelligence, 2020.
+  - Liu, W., Yuen, S. Y., & Sung, C. W. (2020, December). Composing Algorithm Portfolio with Problem Set of Unknown Distribution. In 2020 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 814-821). IEEE.
+
+
