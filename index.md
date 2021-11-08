@@ -12,7 +12,7 @@ I am currently a PhD candidate in Department of Electrical Engineering, City Uni
 
 ## EDUCATION
 - PhD candidate, Department of Electrical Engineering, City University of Hong Kong, 2018-now.
-- MS, Department of Electrical and Electronic Engineering, The university of Melbourne 2015-2018.
+- MS, Department of Electrical and Electronic Engineering, The University of Melbourne 2015-2018.
 - BS, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, 2011-2015.
 
 ## RESEARCH
